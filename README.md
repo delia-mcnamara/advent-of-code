@@ -10,3 +10,6 @@ A collection of my solutions for [Advent of Code](https://adventofcode.com/), or
 - [Day 4: Passport Processing](2020/day-4-passport-processing)
 - [Day 5: Binary Boarding](2020/day-5-binary-boarding)
 - [Day 6: Custom Customs](2020/day-6-custom-customs)
+
+[Advent of Code 2025](2025/)
+- [Day 1: Secret Entrance](2025/day-1-secret-entrance)
