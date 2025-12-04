@@ -13,3 +13,4 @@ A collection of my solutions for [Advent of Code](https://adventofcode.com/), or
 
 [Advent of Code 2025](2025/)
 - [Day 1: Secret Entrance](2025/day-1-secret-entrance)
+- [Day 3: Lobby](2025/day-3-lobby)
